@@ -1,15 +1,12 @@
 # Basic_Searching-Sorting_Python
 
-#Linear Search
+# Linear Search
 
-In the beginning We have created the (1)Main Function (LinearSearch) which is
-heart of our program 
-out Function Takes three Arguments 
+In the beginning We have created the (1)Main Function (LinearSearch) which is heart of our program out Function Takes three Arguments 
 1)arr(array of items through which we have to search)
 2)n(length of the array)
 3)x(number we have to Search)
-The Function Runs the loop from dis import Instruction
-from multiprocessing.dummy import JoinableQueue
+The Function Runs the loop from dis import Instruction from multiprocessing.dummy import JoinableQueue
 from 0(by default) to n(length of the array)
 inside the loop we check the important condition arr[i]==x:
 if during the loop running we find this condition true the function return
